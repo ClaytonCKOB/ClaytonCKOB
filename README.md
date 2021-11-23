@@ -10,7 +10,8 @@
   <img align="center" alt="ckob-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
 </div>
-  
+
+  ##
  
 <div> 
   <a href = "mailto:claytonckob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
